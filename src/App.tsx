@@ -98,7 +98,7 @@ const App: React.FC = () => {
             <h2>AI agents are coding your project…</h2>
             <p>
               Orchestrating frontend, backend, and tests. This can take{" "}
-              <strong>30–40 seconds</strong>.
+              <strong>1-2 minutes</strong>.
             </p>
             <ul className="loading-steps">
               <li>🧠 Understanding your requirements</li>
@@ -113,7 +113,7 @@ const App: React.FC = () => {
         <header className="header">
           <div className="logo-circle">⚙️</div>
           <div>
-            <h1>AI Project Forge</h1>
+            <h1>Code Quest UI</h1>
             <p className="subtitle">
               Describe your programming requirement. Let a swarm of AI agents deliver a
               full project ZIP: frontend, backend, and tests.
@@ -160,7 +160,7 @@ const App: React.FC = () => {
               </button>
 
               <p className="hint">
-                The request may take <strong>30–40 seconds</strong> while the agents
+                The request may take <strong>1-2 minutes</strong> while the agents
                 work. Don’t close this tab.
               </p>
             </form>
